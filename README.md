@@ -13,5 +13,5 @@ Cu ajutorul acestei aplicații, angajații hotelului pot:
 Această aplicație oferă un mod eficient și organizat de administrare a evenimentelor, contribuind la o experiență mai plăcută atât pentru personal, cât și pentru oaspeți.  
 
 ---
-🔹 **Tehnologii utilizate:** Java, Swing UI, MySQL
+🔹 **Tehnologii utilizate:** Java, Swing UI, MySQL  
 📌 **Status:** În dezvoltare
